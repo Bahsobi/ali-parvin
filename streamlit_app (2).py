@@ -12,6 +12,9 @@ import matplotlib.pyplot as plt
 
 
 
+
+
+
 st.markdown(
     """
     <style>
@@ -41,11 +44,18 @@ st.markdown(
 
 
 
+
+
+
+
+
+
+
 # Show University of Tehran logo and app title centered at the top
 st.markdown(
     """
     <div style='display: flex; justify-content: center; align-items: center; flex-direction: column;'>
-        <img src='https://upload.wikimedia.org/wikipedia/commons/8/83/TUMS_Signature_Variation_1_BLUE.png' width='200' style='margin-bottom: 10px;'/>
+        <img src='https://www.tarafdari.com/sites/default/files/contents/user896359/content-sound/images.jpeg' width='200' style='margin-bottom: 10px;'/>
     </div>
     """,
     unsafe_allow_html=True
