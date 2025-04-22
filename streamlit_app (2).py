@@ -50,16 +50,17 @@ st.markdown(
 
 
 
-
 # Show University of Tehran logo and app title centered at the top
 st.markdown(
     """
     <div style='display: flex; justify-content: center; align-items: center; flex-direction: column;'>
-        <img src='https://www.tarafdari.com/sites/default/files/contents/user896359/content-sound/images.jpeg' width='200' style='margin-bottom: 10px;'/>
+        <img src='https://www.tarafdari.com/sites/default/files/contents/user896359/content-sound/images.jpeg' width='350' style='margin-bottom: 10px;'/>
     </div>
     """,
     unsafe_allow_html=True
 )
+
+
 
 
 # App title and description
