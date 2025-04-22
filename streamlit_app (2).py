@@ -12,29 +12,37 @@ import matplotlib.pyplot as plt
 
 
 
-
-
-
 st.markdown(
     """
     <style>
         body {
-            background-color: #e6f4ea;
-            color: #1e1e1e;
+            background-color: #f0f8ff;  /* آبی روشن */
+            color: #333333;  /* رنگ متن تیره برای خوانایی بهتر */
         }
         .stApp {
-            background-color: #e6f4ea;
+            background-color: #f0f8ff;  /* آبی روشن */
         }
         .css-18e3th9, .css-1d391kg {
-            background-color: #d8efe0 !important;
+            background-color: #f5f5dc !important;  /* بژ ملایم */
         }
         .stSidebar {
-            background-color: #c8e6c9;
+            background-color: #e0f7fa;  /* آبی روشن‌تر برای سایدبار */
+        }
+        .stButton>button {
+            background-color: #ffeb3b;  /* زرد روشن برای دکمه‌ها */
+            color: #333333;
+        }
+        .stButton>button:hover {
+            background-color: #ffca28;  /* زرد تیره‌تر هنگام هاور */
         }
     </style>
     """,
     unsafe_allow_html=True
 )
+
+
+
+
 
 
 
