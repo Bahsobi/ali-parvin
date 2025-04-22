@@ -64,8 +64,8 @@ st.markdown(
 
 
 # App title and description
-st.title('🤖 Machine Learning Models APP for Advance Predicting Infertility Risk in Women')
-st.info('Predict the **Profit** based on startup data using Multiple Linear Regression.')
+st.title('🤖 Machine Learning Models APP for Advance Predicting Infertility Risk in Women by A broken sobhan')
+st.info('Predict the **مهدی و رضا** based on startup data using Deep Learning & Multiple Linear Regression.')
 
 # Load dataset
 df = pd.read_csv('https://raw.githubusercontent.com/Bahsobi/sii_project/main/50_Startups%20(1).csv')
